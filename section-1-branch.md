@@ -1,6 +1,6 @@
 # Branch :laughing:
 
-**＃2020년 이후 default branch명은 main이 주가 되었다**
+**＃2020년 이후 default branch명은 master에서 main을 쓰는게 관례가 되었다**
 <br>
 <br>
 
