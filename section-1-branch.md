@@ -39,9 +39,11 @@ A라는 새로운 branch를 만들고 Head가 A에 위치하면 모든 작업은
 :mag: **git log** : 해당 저장소의 커밋 기록을 가장 최근부터 보여준다
 <br>
 
-:mag: **git commit -a -m "message"** : 
+:mag: **git commit -a -m "message"** : 모든 변경사항에 메시지를 추가해 커밋한다
 <br>
 
+:mag: **git commit -a -m "message"** : 모든 변경사항에 메시지를 추가해 커밋한다
+<br>
 
 </div>
 </details>
