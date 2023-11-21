@@ -24,17 +24,17 @@ A라는 새로운 branch를 만들고 Head가 A에 위치하면 모든 작업은
 <details>
 <summary>click</summary>
 <div markdown="1">       
-  
-<br>
-
-:mag: *git branch* : 저장소에 현재 존재하는 branch 목록을 보여준다
-
-<br>
-:mag: *git branch branch-name* : branch-name의 새 branch가 생성된다
 
 <br>
 
-:mag: *git switch branch-name* : branch-name으로 Head가 전환된다
+:mag: **git branch** : 저장소에 현재 존재하는 branch 목록을 보여준다
+<br>
+
+:mag: **git branch branch-name** : branch-name의 새 branch가 생성된다
+<br>
+
+:mag: **git switch branch-name** : branch-name으로 Head가 전환된다
+<br>
 
 </div>
 </details>
