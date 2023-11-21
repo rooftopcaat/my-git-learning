@@ -33,7 +33,7 @@ A라는 새로운 branch를 만들고 Head가 A에 위치하면 모든 작업은
 :mag: **git branch branch-name** : branch-name의 새 branch가 생성된다
 <br>
 
-:mag: **git switch branch-name** : branch-name으로 Head가 전환된다
+:mag: **git switch branch-name** : branch-name으로 Head가 전환된다 -c를 추가하면 생성후 그 branch로 이동한다
 <br>
 
 :mag: **git log** : 해당 저장소의 커밋 기록을 가장 최근부터 보여준다
@@ -42,7 +42,7 @@ A라는 새로운 branch를 만들고 Head가 A에 위치하면 모든 작업은
 :mag: **git commit -a -m "message"** : 모든 변경사항에 메시지를 추가해 커밋한다
 <br>
 
-:mag: **git commit -a -m "message"** : 모든 변경사항에 메시지를 추가해 커밋한다
+:mag: **git commit -a -m "message"** : 
 <br>
 
 </div>
