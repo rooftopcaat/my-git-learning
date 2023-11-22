@@ -13,7 +13,7 @@
 <div markdown="1">  
   
 <br>
-  
+
 :mag: **git merge branch-name** : main Head에 branch-name을 merge한다 여기서 main Head는 merge되는 branch에 추가된 commit을 감아가며 포인터를 이동시킨다
 <br>
 
