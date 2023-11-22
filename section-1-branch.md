@@ -48,8 +48,12 @@ A라는 새로운 branch를 만들고 Head가 A에 위치하면 모든 작업은
 :mag: **git stash pop** : 다른 branch로 변경을 한 후에, 임시저장된 변경사항을 다시 적용하기 (변경사항은 손실되지 않고 새 branch에서도 계속 보존됨)
 <br>
 
-:mag: **git branch -d branch-name** : branch-name branch 삭제  
+:mag: **git branch -d branch-name** : branch-name branch 삭제 branch가 merge되지 않았어도 강제삭제하려면 -D
 <br>
+
+:mag: **git push github-repo-name --delete branch-name** : github의 원격 저장소에 있는 branch를 삭제 (origin도 사용가능) 
+<br>
+
 
 </div>
 </details>
