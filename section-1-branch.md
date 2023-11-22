@@ -54,6 +54,14 @@ A라는 새로운 branch를 만들고 Head가 A에 위치하면 모든 작업은
 :mag: **git push github-repo-name --delete branch-name** : github의 원격 저장소에 있는 branch를 삭제 (origin도 사용가능) 
 <br>
 
+:mag: **git branch -m branch-name change-branch-name** : branch-name을 change-branch-name으로 바꿈 branch 관련의 -m은 message가 아닌 move이다
+<br>
+
+:mag: **git push github-repo-name change-branch-name** : 이름 변경된 branch를 원격 저장소에 푸시
+<br>
+
+:mag: **git push github-repo-name --delete branch-name ** : 원격 저장소의 기존 branch 삭제
+<br>
 
 </div>
 </details>
