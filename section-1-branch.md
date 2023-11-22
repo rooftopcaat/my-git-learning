@@ -60,7 +60,7 @@ A라는 새로운 branch를 만들고 Head가 A에 위치하면 모든 작업은
 :mag: **git push github-repo-name change-branch-name** : 이름 변경된 branch를 원격 저장소에 푸시
 <br>
 
-:mag: **git push github-repo-name --delete branch-name ** : 원격 저장소의 기존 branch 삭제
+:mag: **git push github-repo-name --delete branch-name** : 원격 저장소의 기존 branch 삭제
 <br>
 
 </div>
