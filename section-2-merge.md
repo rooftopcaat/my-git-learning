@@ -18,3 +18,21 @@
 
 </div>
 </details>
+
+<br>
+
+## Merge Situation :bookmark:
+<details>
+<summary>click</summary>
+<div markdown="1">  
+  
+<br>
+
+:mag: **일반적 fast-forward merge** : main branch에 다른 팀원의 merge가 없고 내가 작업한 하나의 branch만이 존재할 경우엔 merge 커맨드를 통해 합칠 수 있다
+<br>
+
+:mag: **충돌이 없는 merge commit** : 내가 다른 branch에서 작업하는 동안 동료가 main branch에 다른 branch를 merge해 내 branch의 이전 내용과 다른 내용이 추가되었을 때 두 branch가 충돌하지 않으면 깃은 병합 커밋을 생성한다
+<br>
+
+</div>
+</details>
