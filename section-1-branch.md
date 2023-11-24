@@ -8,6 +8,8 @@
 <br>
 **＃현재 위치한 branch는 삭제할 수 없다. 다른 branch로 이동해서 삭제해야 하고 merge 없는 강제삭제는 -D를 추가한다**
 <br>
+**＃반면 이름 변경은 변경하고자 하는 branch에 위치해야 한다**
+
 
 ## Head :bookmark:
 <details>
