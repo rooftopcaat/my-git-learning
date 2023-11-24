@@ -3,7 +3,8 @@
 **＃2020년 이후 default branch명은 master에서 main을 쓰는게 관례가 되었다**
 <br>
 **＃commit은 해시값으로 변경되어 전달된다**
-
+<br>
+**＃변경사항을 커밋, 스태시하지 않고 branch를 이동하면 소실된다**
 <br>
 <br>
 
