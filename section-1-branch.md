@@ -6,6 +6,7 @@
 <br>
 **＃변경사항을 커밋, 스태시하지 않고 branch를 이동하면 unstage된 파일이 충돌할 수 있다**
 <br>
+**＃현재 위치한 branch는 삭제할 수 없다. 다른 branch로 이동해서 삭제해야 하고 merge 없는 강제삭제는 -D를 추가한다**
 <br>
 
 ## Head :bookmark:
