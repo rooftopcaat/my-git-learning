@@ -41,7 +41,25 @@ CONFLICT (content) : Merge conflict in blah.txt Automatic merge failed; fix conf
 git merge에서 충돌이 일어나면 발생한 파일로 이동한다
 <br>
 파일에서 Marking된 Conflict 내용을 열어 수정한다(git은 알려주기만 할 뿐 수정에는 관여하지 않으므로 전적으로 사용자가 판단해야 한다)
+
 <br>
+
+수정할 부분은
+```
+<<<<<<<<<<<< HEAD
+
+HEAD branch file context
+
+======
+
+Merge branch file context
+
+>>>>>>>>>>>> 
+```
+
+<br>
+
+의 형태로 드러난다. 최종 결정자는 관련 팀원과 상의하여 두 내용을 모두 포함시킬지, 한쪽만을 포함시킬지를 생각한다
 
 </div>
 </details>
