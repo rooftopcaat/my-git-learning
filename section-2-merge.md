@@ -35,8 +35,13 @@
 <br>
 
 :mag: **충돌되는 merge commit** : 
+```
+CONFLICT (content) : Merge conflict in blah.txt Automatic merge failed; fix conflicts and then commit the result.
+```
+git merge에서 충돌이 일어나면 발생한 파일로 이동한다
 <br>
-
+파일에서 Marking된 Conflict 내용을 열어 수정한다(git은 알려주기만 할 뿐 수정에는 관여하지 않으므로 전적으로 사용자가 판단해야 한다)
+<br>
 
 </div>
 </details>
