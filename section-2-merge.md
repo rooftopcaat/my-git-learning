@@ -34,7 +34,7 @@
 :mag: **충돌이 없는 merge commit** : 내가 다른 branch에서 작업하는 동안 동료가 main branch에 다른 branch를 merge해 내 branch의 이전 내용과 다른 내용이 추가된 상태에서 merge할 경우, 두 branch가 충돌하지 않는다면 깃은 두개의 부모 커밋을 가진 병합 커밋을 생성한다
 <br>
 
-:mag: **충돌되는 merge commit** :
+:mag: **충돌되는 merge commit** : 
 <br>
 
 
