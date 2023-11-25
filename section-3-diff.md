@@ -13,8 +13,35 @@
   
 <br>
 
-:mag: **git diff** : 
+:mag: **git diff** : 커밋 / 워킹 디렉토리 / 스테이지 변경사항 비교
 <br>
 
 </div>
 </details>
+
+## Diff Reading :bookmark:
+<details>
+<summary>click</summary>
+<div markdown="1">  
+  
+<br>
+
+:mag:
+```
+diff --git a/A.txt b/B.txt
+index 52d1d5a..f2c8147 107056
+--- a/A.txt
++++ b/B.txt
+@@ -3,4 +3,5 @@ A
+  B
+  C
+  D
+  -E
+  +F
+  +G
+```
+<br>
+
+</div>
+</details>
+
