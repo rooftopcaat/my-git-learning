@@ -28,10 +28,10 @@
 
 :mag:
 ```
-diff --git a/A.txt b/B.txt
+diff --git a/A.txt b/B.txt (이전 버전과 새 버전) (설정에 따라 다른 파일이 될 수도 있다)
 index 52d1d5a..f2c8147 107056
---- a/A.txt
-+++ b/B.txt
+--- a/A.txt (파일 A가 변경되어)
++++ b/B.txt (파일 B가 되었음)
 @@ -3,4 +3,5 @@ A
   B
   C
