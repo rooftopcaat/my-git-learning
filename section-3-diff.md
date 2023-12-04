@@ -28,6 +28,9 @@
 :mag: **git diff --staged** : 스테이지에 등록된 변경사항만을 보여줌
 <br>
 
+:mag: **git diff --staged [filename] 과 git diff HEAD [filename]** : 특정 범위로 좁혀 조회
+<br>
+
 </div>
 </details>
 
