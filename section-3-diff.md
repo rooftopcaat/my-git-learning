@@ -40,6 +40,8 @@
 </div>
 </details>
 
+<br>
+
 ## Diff Reading :bookmark:
 <details>
 <summary>click</summary>
@@ -62,6 +64,22 @@ index 52d1d5a..f2c8147 107056
   +F
   +G
 ```
+<br>
+
+</div>
+</details>
+
+<br>
+
+## GitKraken :bookmark:
+<details>
+<summary>click</summary>
+<div markdown="1">  
+  
+<br>
+
+:mag:
+
 <br>
 
 </div>
