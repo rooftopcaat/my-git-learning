@@ -28,7 +28,13 @@
 :mag: **git diff --staged** : 스테이지에 등록된 변경사항만을 보여줌
 <br>
 
-:mag: **git diff --staged [filename] 과 git diff HEAD [filename]** : 특정 범위로 좁혀 조회
+:mag: **git diff --staged [filename] 과 git diff HEAD [filename]** : 특정 범위로 좁혀 조회, 띄어쓰기 후 복수 파일 조회도 가능하다
+<br>
+
+:mag: **git diff branch1..branch2** : branch1와 branch2간 변경사항을 비교해 볼 수 있다 (순서 중요)
+<br>
+
+:mag: **git diff commit1..commit2** : 두 커밋 사이에 일어난 모든 변경사항 조회 (순서 중요)
 <br>
 
 </div>
