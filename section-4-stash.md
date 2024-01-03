@@ -1,4 +1,4 @@
-# Diff :laughing:
+# Stash :laughing:
 
 **＃3장에서 diff를 통해 branch 변경사항을 비교하는 방법을 알아보았다**
 <br>
